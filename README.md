@@ -20,24 +20,27 @@ A full-stack web application built using Node.js, Express, MongoDB, and EJS. It 
 
 Follow these steps to set up and run the project locally:
 
-1. **Clone the repository**
+1. **Clone the repository:**
    
-git clone https://github.com/yourusername/markdown-blog.git
-cd markdown-blog
+   git clone https://github.com/yourusername/markdown-blog.git
+   Replace `yourusername` with your GitHub username.
 
-Replace `yourusername` with your GitHub username.
+2. **Change to the project directory:**
 
-2. **Install dependencies**
+   cd markdown-blog
 
-npm install
+3. **Install dependencies:**
 
+   npm install
 
-3. **Ensure MongoDB is installed and running on your local machine**. Update the MongoDB connection string in the `server.js` file if necessary.
+4. **Ensure MongoDB is installed and running on your local machine.** 
+   
+   Update the MongoDB connection string in the `server.js` file if necessary.
 
-4. **Start the application**
+5. **Start the application:**
 
-npm start
+   npm start
 
-Access the application in your browser by navigating to http://localhost:5000.
+6. **Access the application in your browser by navigating to http://localhost:5000.**
 
 This Markdown Blog Application serves as an excellent showcase of full-stack web development skills and provides a solid foundation for building more advanced content management systems or web applications.
