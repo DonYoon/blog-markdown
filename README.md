@@ -12,9 +12,9 @@ A full-stack web application built using Node.js, Express, MongoDB, and EJS. It 
 
 ## Prerequisites
 
-- Node.js v12.0.0 or higher
-- npm v6.0.0 or higher
-- MongoDB installed and running on your local machine
+- [Node.js](https://nodejs.org/en/) v12.0.0 or higher
+- [npm](https://www.npmjs.com/) v6.0.0 or higher
+- [MongoDB](https://www.mongodb.com/) installed and running on your local machine
 
 ## Getting Started
 
