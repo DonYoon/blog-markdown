@@ -23,6 +23,7 @@ Follow these steps to set up and run the project locally:
 1. **Clone the repository:**
    
    git clone https://github.com/yourusername/markdown-blog.git
+   
    Replace `yourusername` with your GitHub username.
 
 2. **Change to the project directory:**
