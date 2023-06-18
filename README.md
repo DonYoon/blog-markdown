@@ -43,5 +43,3 @@ Follow these steps to set up and run the project locally:
    npm start
 
 6. **Access the application in your browser by navigating to http://localhost:5000.**
-
-This Markdown Blog Application serves as an excellent showcase of full-stack web development skills and provides a solid foundation for building more advanced content management systems or web applications.
